@@ -1,0 +1,10 @@
+{
+  "realistic_terrain.state.road": "Дорога",
+  "realistic_terrain.state.grass": "Бездоріжжя",
+  "realistic_terrain.state.forest": "Ліс",
+  "realistic_terrain.state.sand": "Пісок",
+  "realistic_terrain.state.snow": "Сніг",
+  "realistic_terrain.state.mud": "Бруд",
+  "realistic_terrain.state.wet": "Розкисла земля",
+  "realistic_terrain.mounted": "верхи"
+}

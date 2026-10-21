@@ -1,0 +1,10 @@
+{
+  "realistic_terrain.state.road": "Road",
+  "realistic_terrain.state.grass": "Off-road",
+  "realistic_terrain.state.forest": "Forest",
+  "realistic_terrain.state.sand": "Sand",
+  "realistic_terrain.state.snow": "Snow",
+  "realistic_terrain.state.mud": "Mud",
+  "realistic_terrain.state.wet": "Soaked ground",
+  "realistic_terrain.mounted": "mounted"
+}
